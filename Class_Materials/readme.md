@@ -2,12 +2,12 @@
 # class materials
 -----------------------
 
-## Unit 1 = Week 1 - working in the Terminal, Python basics, using Python for Data
+## Unit 1 = Week 1 - Core toolkit, Python basics, using Python for Data
 class materials covering the following:
 * tbc
 
 
-## Unit 2 = Week 2 - Visualising Data to answer questions, Using GitHub
+## Unit 2 = Week 2 - Visualising Data to answer questions
 class materials cover the following:
 * tbc
 
