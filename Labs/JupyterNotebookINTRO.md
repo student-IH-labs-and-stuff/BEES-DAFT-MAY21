@@ -33,10 +33,11 @@ notebook (.ipynb file) with your responses named as Jupyterlab.ipynb
 
 
 ## Submission
-clone your repo github locally 
-Upon completion of the noteboook, save your deliverables to your github repo clone (local folder)
-Then add, commit git (using an appropriate commit message) and push your local copy changes to the remote
-submit your github url via your student portal to let us know you have completed the lab 
++ create and clone your ironhack labs repo from github locally, if you have not already (hint: this is a good time to set up your labs in an organised way!)
++ Upon completion of the noteboook, save your deliverables to your github repo clone (local folder)
++ Then add, commit git (using an appropriate commit message) and push your local copy changes to the remote
++ check your remote repo using githubdesktop, gitkraken, or via the browser to confirm the steps 
++ submit your github url via your student portal to let us know you have completed the lab 
 
 ## Resources
 [Jupyter Notebooks Markdown Cheatsheet](https://www.ibm.com/docs/en/watson-studio-local/1.2.3?topic=notebooks-markdown-jupyter-cheatsheet)
