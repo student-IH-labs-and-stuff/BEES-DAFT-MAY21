@@ -2,7 +2,7 @@
 
 # Lab | Tableau -Dynamic Filtering
 
-Build the following charts making use of the filter types and edit filter options in tableau and publish them to your tableau public account (or upload the workbook to your github) in order to submit the url via the Student Portal
+Build the following charts making use of the filter types and edit filter options in tableau and publish them to your tableau public account in order to submit the url via the Student Portal
 
 ## Your Challenge
 
