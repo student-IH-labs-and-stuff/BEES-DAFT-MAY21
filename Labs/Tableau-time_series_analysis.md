@@ -9,6 +9,8 @@ Using the data set [marketing_customer_analysis.csv](marketing_customer_analysis
 
 (Ensure each chart has the appropriate fit, mark type, title, axis labels and colour scheme.)
 
+This lab is about dates. the data set contains only one date field - effective to date - which you should use in all cases- as a stand in for date of .... 
+
 1. Looking at weekdays only (filter out saturdays and sundays) build a stacked bar chart which shows the proportion of claim amount on each weekday per vehicle class. Is there a big difference in the amount claimed(versus the number of claims, could be interesting!) between vehicle classes on a Monday, for example? use a stacked vertical bar chart, weekday should be on colour. 
 3. Over time is there a general trend downwards (using effective to date) on the average lifetime value of customers who respond either yes or no to the insurance offer? Using a line chart, split by no and yes response, make sure your date axis is the full / exact date. Ie you should have data points showing for 1 jan 2011 and 28 feb 2011, and all dates in between. It would be nice if you could add a dotted trend line for the yes ano no responses, separately. 
 4. Lets have a comparative view over time (effective to date) trend with the number of open complaints on one axis and on the opposite axis, the number of policies. Overlay the lines as a dual axis and use complementary colours so the points where the lines cross is easy to see. 
