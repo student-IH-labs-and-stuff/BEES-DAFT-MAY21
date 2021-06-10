@@ -14,7 +14,7 @@ Using the data set [laureate.csv](laureate.csv) and Tableau Desktop or Tableau P
 2. Duplicate your view, and replace the filters with two new visible dynamic filters: a **select categories** multiple choice drop down list filter and a **select a gender** single value list filter- filter to female award winners in medicine, peace and literature. Edit the title of this view to display the filters chosen. 
 3. Create a map showing city of birth and country of birth for every award won. Filter the view with a dynamic drop down list for the **Died Country** of each award winner with only relevant values showing in this filter- select Russia in the filter to show where were the winners who died in Russia actually born? To make this map tidy, filter away unknown countries and cities from the view. 
 4. BONUS: use a wildcard filter with a text table of award winner First Name, Last name, Motivation for award, to find all prize winners whose first name starts with B, and were born after 1950... do you recognise anyone? Neither filters need to be visible - but choose an appropriate descriptive title. 
-**exra bonus** - concatenate the first and last names of the winners in a calculated field and replace the existing columns in your view with your new full name field. 
+**extra bonus** - concatenate the first and last names of the winners in a calculated field and replace the existing columns in your view with your new full name field. 
 
 
 
