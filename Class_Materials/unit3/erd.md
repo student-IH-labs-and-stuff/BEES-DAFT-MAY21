@@ -1,8 +1,8 @@
-## Welcome to your first truly conceptual challenge! 
+## Welcome to your first concept challenge! 
 
 ### Guidance:
 
-* The hardest element of this task will be understanding the requirement, coming up with a solution and creating something presentable, quickly which covers most, if not all angles. 
+* The hardest element of this task will be understanding the requirement, coming up with a theoretical solution and creating something presentable, quickly, which covers most, if not all angles. 
 * We invite you to join up with other students in small groups of between 1-4, or if you prefer you can work alone. 
 * You will be given a limited amount of time during class hours tomorrow to discuss this as a group and formulate your response together. 
 * You will nominate aspokespersons from your group to present what you have developed to your classmates and answer questions
