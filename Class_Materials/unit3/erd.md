@@ -29,6 +29,8 @@
 * a verbal summary of the (collaborative) process, what you found difficult, easy or interesting and how well you feel you met the task
 * any next steps you identified during the process or anything you would do differently next time 
 
+##### submit the diagram via the student portal (all students)
+
 
 ## TOPICS and example QUESTIONS -choose one topic per group, and aim to cover 80%+ of the requirement(questions) as this is It1
 
