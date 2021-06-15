@@ -25,8 +25,8 @@
 * Think about how easy the diagram is for others to understand and be prepared to clarify any terminology and concepts during a Q&A. 
 * Remember this is conceptual, so you do not need to confirm whether these data sources actually exist, but you may have some suggestions in mind.
 * an illustrative description of the unstructured data sources/ types and processes you would seek to include in your model 
-* plus any specific examples of how this [U: data] could enhance and link into your relational/structured data. Remember this is conceptual, so it is not important whether these sources of data are actually accessible to you, although if you find some examples of what you would like to do that would be great to see. 
-* a verbal summary of the (collaborative) process, what you found difficult, easy or interesting, did you go down any 'rabbit holes' and how well you feel you met the task
+* plus any specific examples of how this [U: data] could enhance and link into your relational/structured data. 
+* a verbal summary of the (collaborative) process, what you found difficult, easy or interesting and how well you feel you met the task
 * any next steps you identified during the process or anything you would do differently next time 
 
 
