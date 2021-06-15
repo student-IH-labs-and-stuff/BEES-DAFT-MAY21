@@ -20,7 +20,7 @@
 
 #### Outcomes:
 
-##### a group presentation to class of no more than 5 minutes including presenting the following...
+##### 1. a group presentation to class of no more than 5 minutes including presenting the following...
 * a conceptual 'ERD' which illustrates the sources and tables, relationships (think about 1:M cardinality/relationships), names of fields/entities, defined primary and foreign keys - this should be a shareable as a pdf, png/jpeg, can be hand-drawn and captured by photograph/scanning or created with software such as Visio/LucidChart. 
 * Think about how easy the diagram is for others to understand and be prepared to clarify any terminology and concepts during a Q&A. 
 * Remember this is conceptual, so you do not need to confirm whether these data sources actually exist, but you may have some suggestions in mind.
@@ -29,7 +29,7 @@
 * a verbal summary of the (collaborative) process, what you found difficult, easy or interesting and how well you feel you met the task
 * any next steps you identified during the process or anything you would do differently next time 
 
-##### submit the diagram via the student portal (all students)
+##### 2.submit the diagram via the student portal (all students)
 
 
 ## TOPICS and example QUESTIONS -choose one topic per group, and aim to cover 80%+ of the requirement(questions) as this is It1
