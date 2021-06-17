@@ -16,7 +16,7 @@ Keep in mind the general guidelines above when you conduct data analysis in this
 
 ## Getting Started
 
-Launch `main.ipynb`, `challenge-1.ipynb`, `challenge-2.ipynb`, and `challenge-3.ipynb` in the `your-code` directory of this lab. Take the exercises following the step-by-step instructions.
+Launch `main.ipynb`, `challenge-1.ipynb`, `challenge-2.ipynb`, and `challenge-3.ipynb` in the `lab-df` directory of this lab. Take the exercises following the step-by-step instructions.
 
 ## Deliverables
 
@@ -24,7 +24,7 @@ Launch `main.ipynb`, `challenge-1.ipynb`, `challenge-2.ipynb`, and `challenge-3.
 
 ## Submission
 
-Upon completion, add your deliverables to git. Then commit git and push your branch to the remote.
+Upon completion, add your deliverables to git. Then commit git and push your branch to the remote before submitting the url to us via the student portal.
 
 ## Resources
 
