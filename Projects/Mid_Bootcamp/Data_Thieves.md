@@ -15,9 +15,9 @@
 - [Resources](#resources)
 
 ## Project Description
-The objective of this project is choosing a topic that interests you, find related data, completing an end-to-end analysis and presenting your findings all by yourself. Understand what research has already been done in that area and find questions that are still unanswered. Then, look for data that you think could help you answer those questions and analyze it using visualizations to support your reasoning. Finally, present your result in a presentation and a technical paper.
+The objective of this project is choosing a topic that interests you, find related data, completing an end-to-end analysis and presenting your findings all by yourself. Understand what research has already been done in that area and perhaps identify question(s) that are still unanswered. Then, look for data that you think could help you answer those questions and analyze it, using python EDA methods you have learnt and visualizations to support your reasoning. You could apply any technique you have learnt during the course so far. Finally, we are expecting yout to present your result in a short presentation and a technical paper.
 
-When choosing your topic remember that this project allows you to use **data from your colleagues' past projects, BUT NOT YOURS!**
+When choosing your topic remember that this project allows you to use **data from your any ironhackers past projects**
 
 ## Project Goals
 During this project you will:
@@ -26,26 +26,29 @@ During this project you will:
 * Create useful and easily understandable plots.
 * Communicate the results of your analysis clearly, accurately and engagingly.
 * Learn to adapt your communication style to your audience.
+* Present within a time limit 
+* Complete an End to End data analysis project
 
-## Data Workflow
-In this project you will focus on Data Analysis, but you will continue to develop your Data Wrangling and Visualization skills.
+## Data Workflow
+In this project you will focus on Data Analysis, Data Wrangling and Visualization skills.
 
 ## Requirements & Deliverables
 The **mandatory** requirements that this project needs to satisfy are:
-* The project must be planned. That is why creating a Kanban board is important. You can find a template for Trello [here](https://trello.com/b/pc2CNZTo/project-1-build-your-own-game). Remember that you **CAN'T CODE** until your project is planned.
-* Your repository must be clean and organized; this means that it must include a *.gitignore* file and a README file and also have a functional file structure.
-* The project needs to be presented to your colleagues on the day of the presentation.
+* The project must be planned. That is why creating a Kanban board is important. You can find a template for Trello [here](https://trello.com/b/3KyyUMZa/collab-project). Remember that you **CAN'T CODE** until your project is planned.
+* Your repository must be clean and organized; this means that it must include a *.gitignore* file and a README file and also have a functional file structure that is easy to navigated
+* The project needs to be presented to your colleagues on friday Jul 2nd.
 
-The **mandatory** deliverables that you must turn in are:
-* Link to the repository you used while working on your project. The repository must include all the files you used to complete your analysis. Remember to commit often to avoid trouble in case you mess up: this means more than 1 commit!
+The **mandatory** deliverables that you must submit are:
+* Link to the repository you used while working on your project. The repository must include all the files you used to complete your analysis. Remember to commit often to avoid trouble in case you make mistakes: this means more than 1 commit!
 * Link to Trello or picture of your Kanban Board. Include the link or picture in the README file.
-* A short technical paper illustrating your analysis in whatever format you prefer (e.g. Medium article, Jupyter Notebook, Technical Report, etc.)
+* A short technical paper illustrating your analysis in whatever format you prefer (e.g. Medium article, Jupyter Notebook, Technical Report, readme, pdf etc.)
 
 ## Mentoring
-One of the TAs will be your mentor!
+One of the TAs or LT will be your mentor!
 
 Your mentor will:
-* Keep track of your project in general terms. Your mentor will be the second person that knows more about the project, after you.
+* Keep track of your project day by day to ensure you are able to manage in the week.
+* Your mentor will be the second person that knows more about the project, after you.
 * Check if you are following your plan: are you keeping up with your tasks and deadlines? Do you have any obstacles blocking you?
 * Help/support you with specific questions.
 
@@ -57,23 +60,24 @@ Your mentor is **not** meant to:
 
 **Please note** that the following schedule is simply a guideline. Feel free to organize your work as you see fit.
 
-**Wednesday/Thursday/Friday**
+**Friday**
 * Choose a topic for your project.
 * Find interesting questions related to your topic.
 * Brainstorm to find out what kind of data you can use to answer those questions.
 * Research and look for the data you need.
-* Fork the project repository and edit the README overview. You can find a [template](https://github.com/ta-data-bcn/Project-Week-5-Your-Own-Project/blob/master/your-project/README.md) for your README file in this repository. Remember to keep the README up-to-date.
-* Plan your project. Remember that we are providing you with a Trello [template](https://trello.com/b/pc2CNZTo/project-1-build-your-own-game). Remember that you **CAN'T CODE** until your project is planned.
-* **CHECKPOINT:** Topic and general idea validation with the Lead Teacher and TAs **at 2PM on Friday**.
-* Once you finish, start coding!
 
 **Monday**
+* **CHECKPOINT:** brief your mentor on the project topic you have chosen
+* Create the project repository and edit the README as an overview. Remember to keep the README up-to-date.
+* Plan your project. Remember that we are providing you with a Trello [template](https://trello.com/b/3KyyUMZa/collab-project). You **CAN'T CODE** until your project is planned.
+* Retrieve the data
 * Clean your data.
 * Start working on your analysis and plots.
-* Prepare a draft of the non-analysis slides of your presentation: title, motivation, context, etc.
 
 **Tuesday**
 * **CHECKPOINT:** General follow-up and resolution of eventual doubts/blockers.
+* Continue work on your analysis and plots.
+* Prepare a draft of the non-analysis slides of your presentation: title, motivation, context, etc.
 
 **Wednesday**
 * Complete the analysis and slides.
@@ -81,14 +85,14 @@ Your mentor is **not** meant to:
 
 **Thursday**
 * Final technical report/article.
-* Presentations rehersal time **at 16:00**!
+* Presentations rehersal time **from 16:00** in breakout rooms with your mentor!
 
 **Friday**
 * Final improvements!
-* Presentations time **at 15:00**!
+* Presentations time **at 14:00**!
 
 ## Presentation  
-Projects will be presented to UX/UI students! Presentations will be **EXACTLY** 4 minutes long, with 2 additional minutes for questions. We will stop you at 4 minutes so make sure to rehearse your presentation to avoid exceeding the time limit!  
+Projects will be presented to another IH class! Presentations will be **EXACTLY** 5 minutes long, with 2 additional minutes for questions. We will stop you at 5 minutes so make sure to rehearse your presentation to avoid exceeding the time limit!  
 The audience will evaluate the presentation by indicating how well they understood what you were trying to explain and how you presented it. This information will help you in further presentations!
 
 ## Tips & Tricks
@@ -104,3 +108,8 @@ Here are some data sources that could be interesting to you:
 * [Hans Roslings's vizs](http://b.link/ted52)  
 * [See an analysis about heart diseases](http://b.link/kaggle10)  
 * [Your body's data](http://body.media/ted6)
+* [Our world in data](https://ourworldindata.org/blog)
+* [Data World](https://data.world/)
+* [git hub data sets](https://github.com/awesomedata/awesome-public-datasets#earthscience)
+* [european data](https://data.europa.eu/en)
+
