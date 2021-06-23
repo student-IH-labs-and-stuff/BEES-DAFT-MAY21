@@ -89,7 +89,7 @@ Your mentor is **not** meant to:
 
 **Friday**
 * Final improvements!
-* Presentations time **at 14:00**!
+* Presentations time **at 15:00**!
 
 ## Presentation  
 Projects will be presented to another IH class! Presentations will be **EXACTLY** 5 minutes long, with 2 additional minutes for questions. We will stop you at 5 minutes so make sure to rehearse your presentation to avoid exceeding the time limit!  
