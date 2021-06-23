@@ -15,9 +15,11 @@
 - [Resources](#resources)
 
 ## Project Description
-The objective of this project is choosing a topic that interests you, find related data, completing an end-to-end analysis and presenting your findings all by yourself. Understand what research has already been done in that area and perhaps identify question(s) that are still unanswered. Then, look for data that you think could help you answer those questions and analyze it, using python EDA methods you have learnt and visualizations to support your reasoning. You could apply any technique you have learnt during the course so far. Finally, we are expecting yout to present your result in a short presentation and a technical paper.
+The objective of this project is choosing a topic that interests you, find related data, completing an end-to-end analysis and presenting your findings. Understand what research has already been done in that area and perhaps identify question(s) that are still unanswered. Then, look for data that you think could help you answer those questions and analyze it, using python EDA methods you have learnt and visualizations to support your reasoning. You could apply any technique you have learnt during the course so far. Finally, we are expecting yout to present your result in a short presentation and a technical paper.
 
-When choosing your topic remember that this project allows you to use **data from your any ironhackers past projects**
+This project can be individual but also can be done in group mode - 2 to 4 students could work together on the same topic, or collaborate by sharing ideas, methods and resources. Lets us know who is in your group on Friday afternoon so we can arrange you into your mentor groups. 
+
+This project allows you to use **data from any ironhackers past projects**
 
 ## Project Goals
 During this project you will:
