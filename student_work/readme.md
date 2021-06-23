@@ -1,4 +1,4 @@
 for testing and helping students
 
 
-![alt text](Czechchart.png)
+![What is this](Czechchart.png)
