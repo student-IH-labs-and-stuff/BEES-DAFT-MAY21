@@ -56,7 +56,7 @@ Your mentor will:
 
 Your mentor is **not** meant to:
 * Know everything.
-* Be your manager. You have to be responsible of your own tasks!
+* Be your manager. You have to be responsible for your own tasks!
 
 ## Schedule
 
