@@ -88,10 +88,11 @@ Your mentor is **not** meant to:
 **Thursday**
 * Final technical report/article.
 * Presentations rehersal time **from 16:00** in breakout rooms with your mentor!
+* final improvements!
 
 **Friday**
-* Final improvements!
-* Presentations time **at 15:00**!
+* Presentations time **at 09:30**!
+* submit your project repos before lunch to receive personalised feedback from the teaching team
 
 ## Presentation  
 Projects will be presented to another IH class! Presentations will be **EXACTLY** 5 minutes long, with 2 additional minutes for questions. We will stop you at 5 minutes so make sure to rehearse your presentation to avoid exceeding the time limit!  
