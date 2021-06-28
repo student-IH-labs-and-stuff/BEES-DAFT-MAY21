@@ -37,7 +37,7 @@ In this project you will focus on Data Analysis, Data Wrangling and Visualizatio
 ## Requirements & Deliverables
 The **mandatory** requirements that this project needs to satisfy are:
 * The project must be planned. That is why creating a Kanban board is important. You can find a template for Trello [here](https://trello.com/b/3KyyUMZa/collab-project). Remember that you **CAN'T CODE** until your project is planned.
-* Your repository must be clean and organized; this means that it must include a *.gitignore* file and a README file and also have a functional file structure that is easy to navigated
+* Your repository must be clean and organized; this means that it must include a README file and also have a functional file structure that is easy to navigated
 * The project needs to be presented to your colleagues on friday Jul 2nd.
 
 The **mandatory** deliverables that you must submit are:
