@@ -115,4 +115,5 @@ Here are some data sources that could be interesting to you:
 * [Data World](https://data.world/)
 * [git hub data sets](https://github.com/awesomedata/awesome-public-datasets#earthscience)
 * [european data](https://data.europa.eu/en)
+* [maria db repository by topic](https://relational.fit.cvut.cz/search)
 
