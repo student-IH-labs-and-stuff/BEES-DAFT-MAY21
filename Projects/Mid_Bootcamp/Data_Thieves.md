@@ -21,9 +21,12 @@ This project can be individual but also can be done in group mode - 2 to 4 stude
 
 This project allows you to use **data from any ironhackers past projects**
 
+
+------------
 (SD) new recommendations :
 + do not use kaggle data sets
 + do not use the global happiness index 
+--------------
 
 ## Project Goals
 During this project you will:
