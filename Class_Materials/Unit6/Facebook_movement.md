@@ -31,12 +31,12 @@ It would be silly for us to complete a data analyst course in this year without 
 
 - produce a **data story** centred around changes observed in human movement under covid-19 restrictions in specific country(/ies) or Region(s). Ideally the story should have a time element (ie changes in movement over a timeline) and some comparisons - compare cities or countries' experience at respective dates.
 -  take your audience on a journey through the arc of your data story - hint: think about who your story would be targeted at, in order to pitch the visuals, language, descriptions, and technical details appropriately. This [link](https://blog.reedsy.com/narrative-arc) is a good one to get you thinking as a storyteller about narrative structures, the story arc and the various elements of a plot eg inciting incident. 
-![alt text](https://github.com/student-IH-labs-and-stuff/BER-DAFT-MAR21/blob/main/Project/Storytelling/arc.jpeg "typical story arc")
+![alt text](https://github.com/student-IH-labs-and-stuff/BEES-DAFT-MAR21/blob/main/Project/Storytelling/arc.jpeg "typical story arc")
 
 
 ### Resources 
 
-![alt text](https://github.com/student-IH-labs-and-stuff/BER-DAFT-MAR21/blob/main/Project/Storytelling/facebook.jpeg "facebook movement data")
+![alt text](https://github.com/student-IH-labs-and-stuff/BEES-DAFT-MAR21/blob/main/Project/Storytelling/facebook.jpeg "facebook movement data")
 
 RAW DATA : We have one open data source to work with - other elements of the story can be drawn from our own experiences - ie key dates, policy changes
 
@@ -44,7 +44,7 @@ RAW DATA : We have one open data source to work with - other elements of the sto
 [movement-range-data](https://data.humdata.org/dataset/movement-range-maps)
 This data source is kept monthly up to date, contains data on many (but not all countries) and some guidance on how to use it. You will also see some examples online of other designers and analysts making use of this data. 
 
-![alt text](https://github.com/student-IH-labs-and-stuff/BER-DAFT-MAR21/blob/main/Project/Storytelling/MovementRange_ca.jpeg "california example")
+![alt text](https://github.com/student-IH-labs-and-stuff/BEES-DAFT-MAR21/blob/main/Project/Storytelling/MovementRange_ca.jpeg "california example")
 
 ### Guidance / Tips 
 
