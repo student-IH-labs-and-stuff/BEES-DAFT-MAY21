@@ -33,5 +33,7 @@ in this lab you will follow the steps and concepts you saw in class today to
 
 When you are ready, save your workbook with the separate views showing as tabs to Tableau public and submit your lab via the student portal (tableau public url)
 
+BONUS : combine your views in an interactive dashboard, in a visually pleasing way, that would allow the product team to understand the behaviour of their customers better. 
+
 
 
