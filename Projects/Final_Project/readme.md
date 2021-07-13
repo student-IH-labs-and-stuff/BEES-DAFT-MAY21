@@ -20,6 +20,12 @@
 
 #### Dont forget on Notion we have a wonderful [additional resources](https://www.notion.so/ironhack/8af74fb0e11447e9812e816ec184b958?v=c90c2e1e8d2846f0bc25d8a9e667ff1e) section, solutions, links in the calendar and the class recordings too
 
+## Deliverables of the final project 
+
++ Link to the repository you used while working on your project. The repository must be well organised, with a readme that aids navigation, it should be clear in the folder structure which is your final notebook(s). The repo should include all the files /links to data sources you used in your project analysis and code with annotation and explanation of technical methods, where appropriate. I recommend including a diagram if the method was something we have not covered in class.  Remember to commit often to avoid trouble in case you make mistakes.
++ Link to Trello or picture of your Kanban Board. Include the link or picture in the README file.
++ Your presentation as a url, slides or pdf 
+
 
 ## Project Kick off
 
