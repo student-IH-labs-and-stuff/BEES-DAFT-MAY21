@@ -46,7 +46,7 @@ The initial project kick off meeting is often the best moment of any workspace p
 
 ###### Section two : the topic
 
-+ a) Kosta and Flo - what did they do for a final project ? How did it go ?
++ a) Miguel and Flo - what did they do for a final project ? How did it go ?
 + b) What does Sian look for in a great project idea or delivery of that idea ? 
 + c) Past project profiles  
 + d) Project Brief - spotify - Break out room discussion 
