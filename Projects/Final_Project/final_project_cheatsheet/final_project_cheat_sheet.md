@@ -32,43 +32,51 @@
 
 # 1. Datasources
 
-You are free to use any data sources from Kaggle, UCI ML Repository, data.gov, public APIs, websites, etc. However, you will need to spend more time searching for and evaluating the quality and complexity of the data set you want to use. Discuss with your instructor as early as possible regarding your project ideas in order to avoid potential blockers.
+You are free to use any data sources from UCI ML Repository, data.gov, public APIs, websites, etc. However, you will need to spend more time searching for and evaluating the quality and complexity of the data set you want to use. Discuss with your instructor as early as possible regarding your project ideas in order to avoid potential blockers.
 
 In the following chapters you'll find various datasources. As examples, we explain some of them in the following and why they could be useful when used in your final project
 
-## 1.1. Some datasets & their potential relevance for the final project
+## 1.1. EXAMPLES ONLY Some datasets & how to use similar data for a final project
 
 Find the links below this section!
 
 #### Telecom Customer Churn 📱
 
-This data set is great for practicing supervised machine learning. The most obvious supervised learning problem to model with this data set is attempting to predict churn (whether or not a customer is going to leave). Another supervised problem you can try to solve is predicting tenure, or how long a customer will end up staying with the company. There are also a lot of ways to slice, dice, and analyze this data set - for example, looking at how monthly charges increase or decrease depending on different types of contracts, tenure, and services provided.
+Any churn data set is great for practicing supervised machine learning. The most obvious supervised learning problem to model with this data set is attempting to predict churn (whether or not a customer is going to leave). Another supervised problem you can try to solve is predicting tenure, or how long a customer will end up staying with the company. There are also a lot of ways to slice, dice, and analyze this data set - for example, looking at how monthly charges increase or decrease depending on different types of contracts, tenure, and services provided. You could enhance such a data set with other churn data sets, capturing similar characteristics of their customers, applying random forests to indentify the characteristics with greatest impact on churn. Is there a difference in what causes someone to churn depending on the industry?
 
-#### Mental Health in Tech 🌀
+ * [Telecom Customer Churn Dataset](https://archive.ics.uci.edu/ml/datasets/Iranian+Churn+Dataset)
 
-This data set is also good for supervised learning, where you would attempt to predict whether the employee taking the survey has received treatment for mental health (treatment variable). You can also analyze how the other variables in the data set contribute to whether someone seeks treatment for mental health and explore what types of environments result in employees with the best mental health states.
+#### Mental Health in X industry 🌀
+
+You will discover survey around this issue on the internet which are good for supervised learning, where you would attempt to predict whether the employee taking the survey has received treatment for mental health. You can also analyze how other variables contribute to whether someone seeks treatment for mental health and explore what types of environments result in employees with the best mental health states.
 
 #### Flight Delays and Cancellations ✈️
 
 This relational data set can help you practice your SQL joins as well as supervised learning as you attempt to predict which flights will be delayed and by how much time. There are also a variety of ways to explore this data set to determine which airlines are most efficient, what times of the day there tend to be the most delays, which cities have more frequent delays than others, and how all this changes over time.
 
+* [Bureau of transportation statistics](https://www.bts.gov/) 
+* [maria bd database (mysql)](https://relational.fit.cvut.cz/dataset/Airline)
+
 #### Craft Beers 🍺
 
-This relational data set has fewer variables than the others, and that means that choosing it for your project will require you to apply some extra creativity. For example, you can create categorical variables out of the numeric abv and ibu variables to categorize a beer's strength and hoppiness. You can also use string operations on the style field to extract additional keyword-based categories (e.g. IPAs, American, English, Wheat, etc.). For modeling, you can attempt to predict the style of the beer or the probability that it falls into a particular style. Alternatively, you can attempt to compute the similarity between beers to determine which ones are most like with other ones.
+You will find a number of relational data sets abour craft beers on the web. They may have fewer variables than the others, and that means that choosing it for your project will require you to apply some extra creativity. For example, you can create categorical variables out of the numeric abv and ibu variables to categorize a beer's strength and hoppiness. You can also use string operations on the style field to extract additional keyword-based categories (e.g. IPAs, American, English, Wheat, etc.). For modeling, you can attempt to predict the style of the beer or the probability that it falls into a particular style. Alternatively, you can attempt to compute the similarity between beers to determine which ones are most like with other ones.
+* [stastica-UK craft industry](https://www.statista.com/topics/6456/craft-beer-in-the-uk/)
+* [data world craft beer](https://data.world/brettcarpenter/craft-beer-data)
+
 
 #### Human Resources 👫👫👫
 
-This is another relational data set where you can practice your SQL joins as well as data wrangling, analysis, and machine learning. As far as applying machine learning to this data set, you can attempt to cluster employees together into similar groups, you can attempt to predict performance scores or pay rate, or you can attempt to predict whether an employee will be terminated within a certain amount of time. Additionally, you can also analyze the relationship between pay and performance by position, department, and manager as well as employee demographics.
+This is another relational data set where you can practice your joins as well as data wrangling, analysis, and machine learning. As far as applying machine learning to this data set, you can attempt to cluster employees together into similar groups, you can attempt to predict performance scores or pay rate, or you can attempt to predict whether an employee will be terminated within a certain amount of time. Additionally, you can also analyze the relationship between pay and performance by position, department, and manager as well as employee demographics.
+
+* [Human Resources Dataset](https://www.kaggle.com/rhuebner/human-resources-data-set)
 
 #### Syngenta Crop Analytics Challenge 🌽🌾
 
 This is another data set where you can practice your SQL joins as well as data wrangling, analysis, and machine learning. The objective of this challenge is to use data analytics to provide answers to some of the questions that would help us support the growing food demands globally. We will use machine learning techniques to develop models to predict the performance of hybrid corn in different environments. In this project, use feature engineering on the environmental data provided and develop stress metrics such as heat stress, drought stress, a combination of heat and drought stress, and understand the individual contributions of each stress type on the yield. Then classify hybrid varieties of corn as either tolerant or susceptible based on the stress metric developed in the previous objective.
 
-## 1.2. Dataset collection
-
-### 1.2.1. Challenges & Competitions
-
   * [Syngenta Crop Analytics Challenge](https://www.ideaconnection.com/syngenta-crop-challenge/challenge.php)
+
+## 1.2. Dataset collection
 
 ### 1.2.2. Dataset aggregating websites
 
@@ -80,31 +88,25 @@ Berlin open data repository  | Berlin specific Datasets (German knowledge helpfu
 London Data Store | London specific Datasets (ask Sian for explainers)  | https://data.london.gov.uk/
 Data world | cloud catalog of many datasets (free, requires registration)  | https://data.world/
 CRRC | datasets collected on the caucasus, useful non profit source of public opinions, impact etc - download as spss and convert in python  | https://caucasusbarometer.org/en/datasets/
-NASA | what can i add except say its Nasa's data  | https://data.nasa.gov/browse
+NASA | what can i add except say its Nasa's data?  | https://data.nasa.gov/browse
 
-#### Kaggle sets
+### 1.2.3. API-Sources
 
-These are all Kaggle data sets, so you can gain some context about them by looking at the field descriptions and the `Overview` tab for each data set. You can also get project ideas by looking at the different `Kernels` that people have created using the data sets and the approaches they have taken, but please **do not** plagiarize or copy someone else's work. Remember that the goal of this project is to demonstrate *your* skills, not someone else's.
+* ["AnyAPI"](https://any-api.com/)
+* [List of python API wrappers](https://github.com/realpython/list-of-python-api-wrappers)
+* googling `python <sitename> api`
+* rapidAPI - discussed in module 7, google and youll find it 
 
-  * [Human Resources Dataset](https://www.kaggle.com/rhuebner/human-resources-data-set)
-  * [Craft Beers Dataset](https://www.kaggle.com/nickhould/craft-cans)
-  * [Flight Delays and Cancellation Dataset](https://www.kaggle.com/usdot/flight-delays)
-  * [Mental Health in Tech Survey Data](https://www.kaggle.com/osmi/mental-health-in-tech-survey)
-  * [Telecom Customer Churn Dataset](https://www.kaggle.com/blastchar/telco-customer-churn)
+
+## 1.3.Copying code
+
+Every data analyst googles for solutions, and learns from others approaches, or copies useful functions and code snippets. If you look at a notebook on Kaggle, you can gain some ideas for project approach and methods.HOWEVER you must be careful never to accidentally or on purpose, plagiarize or copy someone else's work. Remember that the goal of this project is to demonstrate *your* skills, not someone else's. Your teaching team is very experienced, we can tell when one of you are using code you dont understand, and if we see this too much, we will fail you at the final hurdle. Annotate your notebooks, this way its clear you know what youre doing, and be prepared to answer questions about any code or function you are using in your final method. 
+
 
 #### Loose links
 
 * [24 Ultimate Data Science (Machine Learning) Projects To Boost Your Knowledge and Skills (& can be accessed freely)](https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/)
 
-
-## 1.2.3. API-Sources
-
-* ["AnyAPI"](https://any-api.com/)
-* [List of python API wrappers](https://github.com/realpython/list-of-python-api-wrappers)
-* googling `python <sitename> api`
-* rapidAPI - as used in module 7
-
----
 
 # 2. Data Visualization
 
