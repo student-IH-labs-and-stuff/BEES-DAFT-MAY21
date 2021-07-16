@@ -15,3 +15,13 @@
 + https://github.com/surelybassy/SportStatsAnalysis
 
 + https://github.com/clastanga/A_Study_on_Gender_Equality_and_Happiness/tree/main 
+
++ https://github.com/JosephineBiedermann/FinalProject 
+
++ https://github.com/lillaszulyovszky/ironhack-final-project
+
++ https://github.com/marimor62/energy-project
+
++ https://github.com/ProfGeller/mp_price_recommendation
+
++ https://github.com/davis-pudans/Data_Bootcamp_Final_Project
