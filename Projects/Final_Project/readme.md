@@ -20,10 +20,17 @@
 
 #### Dont forget on Notion we have a wonderful [additional resources](https://www.notion.so/ironhack/8af74fb0e11447e9812e816ec184b958?v=c90c2e1e8d2846f0bc25d8a9e667ff1e) section, solutions, links in the calendar and the class recordings too
 
+## Important note on finding data sources
+
++ on this project we want you to look for data from different sources, not KAGGLE 
++ you can only use a kaggle data source if this is one element of your eventual data repository, or if you are enhancing the kaggle data with new data points- discuss with your mentor if you are unsure about this. 
++ instead, consider using webscraping, APIs, raw data sources, surveys, other aggregators such as dataworld, opendata portal
+
+
 ## Deliverables of the final project 
 
 + Link to the repository you used while working on your project. The repository must be well organised, with a readme that aids navigation, it should be clear in the folder structure which is your final notebook(s). The repo should include all the files /links to data sources you used in your project analysis and code with annotation and explanation of technical methods, where appropriate. I recommend including a diagram if the method was something we have not covered in class.  Remember to commit often to avoid trouble in case you make mistakes.
-+ Link to Trello or picture of your Kanban Board. Include the link or picture in the README file.
++ Link to Trello or picture of your Kanban Board. Include the link (check the trello board is public so we can see it) or picture of the kanban board in your README file.
 + Your presentation as a url, slides or pdf 
 
 
@@ -42,9 +49,9 @@ The initial project kick off meeting is often the best moment of any workspace p
 -----
 ###### Section one : the process 
 
-+ a) Student portal - definition & deadline
-+ b) Clarify the project timetable day by day
-+ c) Orientation of the github folder 
++ a) Student portal - definition & deadline, clarifications of objective
++ b) Run through the project timetable day by day
++ c) Orientation in the github folder 
 + d) Expectations from the teaching team 
 + e) General questions (not topic related) 
 
@@ -55,8 +62,6 @@ The initial project kick off meeting is often the best moment of any workspace p
 + a) Miguel and Flo - what did they do for a final project ? How did it go ?
 + b) What does Sian look for in a great project idea or delivery of that idea ? 
 + c) Past project profiles  
-+ d) Project Brief - spotify - Break out room discussion 
-+ e) Feedback on the spotify project brief (main room) 
 + f) Project Briefs Sian has provided (any Q?) 
 + g) Invitation to brainstorm with your peers or explore the resources
 
