@@ -38,7 +38,6 @@ In the following chapters you'll find various datasources. As examples, we expla
 
 ## 1.1. EXAMPLES ONLY Some datasets & how to use similar data for a final project
 
-Find the links below this section!
 
 #### Telecom Customer Churn 📱
 
