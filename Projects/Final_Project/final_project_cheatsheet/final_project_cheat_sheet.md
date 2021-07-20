@@ -97,7 +97,7 @@ NASA | what can i add except say its Nasa's data?  | https://data.nasa.gov/brows
 * rapidAPI - discussed in module 7, google and youll find it 
 
 
-## 1.2.4 Inspiration, with links to more data sources 
+## 1.3 Inspiration, with links to more data sources 
 
 * [24 Ultimate Data Science (Machine Learning) Projects To Boost Your Knowledge and Skills (& can be accessed freely)](https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/)
 * [20 open data sources for NLP](https://medium.com/@ODSC/20-open-datasets-for-natural-language-processing-538fbfaf8e38)
