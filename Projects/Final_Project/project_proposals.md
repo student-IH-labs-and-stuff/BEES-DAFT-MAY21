@@ -41,19 +41,19 @@ each project brief contains a suggested direction, data sources, and would be ac
 
 ----------
 
-+ Web scraping project - internal stakeholder (Ironhack: Pedro Resch) - ask Sian for contact information 
-+ Objective: I would like to understand what web development technologies employers are currently demanding the most in our target market (Brazil as a whole, and specifically São Paulo state). We would like to analyse the job descriptions of 10k open positions from different sources (Linkedin, recruiting webpages, companies websites, etc). I would like to know what are the most demanded technologies within these 10k positions. Technologies identified may include programming language, operating systems, databases, frameworks, etc. 
++ **Web scraping project** - internal stakeholder (Ironhack: Pedro Resch) - ask Sian for contact information 
++ **Objective**: I would like to understand what web development technologies employers are currently demanding the most in our target market (Brazil as a whole, and specifically São Paulo state). We would like to analyse the job descriptions of 10k open positions from different sources (Linkedin, recruiting webpages, companies websites, etc). I would like to know what are the most demanded technologies within these 10k positions. Technologies identified may include programming language, operating systems, databases, frameworks, etc. 
 + Currently this is hard for this stakeholder because he only has rudimentary Python skills and no free time to learn. Some of the websites may be behind paywalls, scraping the useful data could also require scraping multiple pages and exploring the html of each site. 
-+ data sources - websites as indicated above, you may also discover scraped data by other users or useful databases from other sources- just ensure they are recent. 
-+ MVP : a big table with all the data is good enough for us. We just need to be able to understand our market landscape and if the technologies we teach at Ironhack right now are actually being demanded in our target market. No need for this to be reusable, but that is a very nice plus. Maybe the script used to scrape can be used over and over again so we can check this quarterly? 
++ **data sources** - websites as indicated above, you may also discover scraped data by other users or useful databases from other sources- just ensure they are recent. 
++ **MVP** : a big table with all the data is good enough for us. We just need to be able to understand our market landscape and if the technologies we teach at Ironhack right now are actually being demanded in our target market. No need for this to be reusable, but that is a very nice plus. Maybe the script used to scrape can be used over and over again so we can check this quarterly? 
 + To summarize, gather the amount of open positions of each specific technology, divided by category (frontend language, backend language, database, framework, operating system, cloud provider), and sorted by quantity of open positions, scraped from recruiting websites and apps, considering our target market (são paulo, brazil). 
 + (summary and analysis / visualisation would be a bonus !) 
 
 ----------
 
-+ data analysis and visualisation project - internal stakeholder for external project (Ironhack: Dina Gorkmazova - ask Sian for contact information
-+ Objective : As a Seller on one of the e-commerce platforms ( similar to Amazon), I can generate reports on sales per item, and supply reports, but there is no analytics available - for example trends in sales (per item/per week, etc), how adequate has the restocking been based on sales, what is the projection for upcoming weeks/months... 
-+ Currently this is hard for the stakeholder because 
-+ data sources - will be provided in excel / csv format, and the files will need to be joined together (python, tableau or mysql)
-+ MVP : an infographic which summarises the trends and projections
++ **data analysis and visualisation project** - internal stakeholder for external project (Ironhack: Dina Gorkmazova - ask Sian for contact information
++ **Objective** : As a Seller on one of the e-commerce platforms ( similar to Amazon), I can generate reports on sales per item, and supply reports, but there is no analytics available - for example trends in sales (per item/per week, etc), how adequate has the restocking been based on sales, what is the projection for upcoming weeks/months... 
++ Currently this is hard for the stakeholder because the data sets are not joined and the information is too granular, rather than an overview 
++ **data sources** - will be provided in excel / csv format, and the files will need to be joined together (python, tableau or mysql)
++ **MVP** : an infographic which summarises the trends and projections
 + (a reusable process to update with new data would be a bonus!)
