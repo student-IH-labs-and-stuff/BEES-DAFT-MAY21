@@ -97,12 +97,7 @@ NASA | what can i add except say its Nasa's data?  | https://data.nasa.gov/brows
 * rapidAPI - discussed in module 7, google and youll find it 
 
 
-## 1.3.Copying code
-
-Every data analyst googles for solutions, and learns from others approaches, or copies useful functions and code snippets. If you look at a notebook on Kaggle, you can gain some ideas for project approach and methods.HOWEVER you must be careful never to accidentally or on purpose, plagiarize or copy someone else's work. Remember that the goal of this project is to demonstrate *your* skills, not someone else's. Your teaching team is very experienced, we can tell when one of you are using code you dont understand, and if we see this too much, we will fail you at the final hurdle. Annotate your notebooks, this way its clear you know what youre doing, and be prepared to answer questions about any code or function you are using in your final method. 
-
-
-#### Inspiration with links to more data sources 
+## 1.2.4 Inspiration, with links to more data sources 
 
 * [24 Ultimate Data Science (Machine Learning) Projects To Boost Your Knowledge and Skills (& can be accessed freely)](https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/)
 * [20 open data sources for NLP](https://medium.com/@ODSC/20-open-datasets-for-natural-language-processing-538fbfaf8e38)
@@ -110,7 +105,13 @@ Every data analyst googles for solutions, and learns from others approaches, or 
 * [public data sets for machine learning and data science](https://pub.towardsai.net/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f)
 * [datasets for all types of projects](https://www.kdnuggets.com/datasets/index.html)
 
-# 2. Data Visualization
+
+## 3.Copying code
+
+Every data analyst googles for solutions, and learns from others approaches, or copies useful functions and code snippets. If you look at a notebook on Kaggle, you can gain some ideas for project approach and methods.HOWEVER you must be careful never to accidentally or on purpose, plagiarize or copy someone else's work. Remember that the goal of this project is to demonstrate *your* skills, not someone else's. Your teaching team is very experienced, we can tell when one of you are using code you dont understand, and if we see this too much, we will fail you at the final hurdle. Annotate your notebooks, this way its clear you know what youre doing, and be prepared to answer questions about any code or function you are using in your final method. 
+
+
+# 4. Data Visualization
 
 * [Python graph gallery](https://python-graph-gallery.com/all-charts/). A vast collection of matplotlib based (seaborn, matplotlib, pandas, etc.) plots with their respective code snippets. If you need a plot, pick one, check the code, copy-paste it and change it according to your needs
 * [80 Data Visualization examples using location data and maps](https://carto.com/blog/eighty-data-visualizations-examples-using-location-data-maps/)
@@ -119,13 +120,13 @@ Every data analyst googles for solutions, and learns from others approaches, or 
 * [information is beautiful] (https://informationisbeautiful.net/) , what can we add to the title ? 
 * [storytelling with data] (https://www.storytellingwithdata.com/blog), the SWD challenge blog - highly recommended 
 
-# 3. Presentations
+# 5. Presentations
 
 * [Presenting code in Jupyter notebook](https://medium.com/@mjspeck/presenting-code-using-jupyter-notebook-slides-a8a3c3b59d67) (helpful if you want to live demonstrate your model inference/predictions e.g.)
 
 * Don't spend too much time on crafting a coherent style of your presentation. Remember you can still make use of existing style templates, e.g. from [here](https://slidesmania.com/free-templates/) (pay attention to mention the author though if necessary)
 
-# 4. General Python hints
+# 6. General Python hints
 
 * A lot of times you will face the situation of having to perform a job on a "huge thing" that can be separated into individual pieces, such as:
   * data cleaning for multiple columns in a dataframe,
@@ -172,8 +173,9 @@ Every data analyst googles for solutions, and learns from others approaches, or 
 ---
 
 
-# 5. Other
+# 7. Other
 
 #### stress & workload & focus management
 
 * [tomato timer! ](https://tomato-timer.com/)
+* make sure you take **yoga/meditation/stretching breaks**
