@@ -36,7 +36,7 @@ You are free to use any data sources from UCI ML Repository, data.gov, public AP
 
 In the following chapters you'll find various datasources. As examples, we explain some of them in the following and why they could be useful when used in your final project
 
-## 1.1. EXAMPLES ONLY Some datasets & how to use similar data for a final project
+## 1.1. EXAMPLES ONLY - Some datasets & how to use similar data for a final project
 
 
 #### Telecom Customer Churn 📱
@@ -102,10 +102,13 @@ NASA | what can i add except say its Nasa's data?  | https://data.nasa.gov/brows
 Every data analyst googles for solutions, and learns from others approaches, or copies useful functions and code snippets. If you look at a notebook on Kaggle, you can gain some ideas for project approach and methods.HOWEVER you must be careful never to accidentally or on purpose, plagiarize or copy someone else's work. Remember that the goal of this project is to demonstrate *your* skills, not someone else's. Your teaching team is very experienced, we can tell when one of you are using code you dont understand, and if we see this too much, we will fail you at the final hurdle. Annotate your notebooks, this way its clear you know what youre doing, and be prepared to answer questions about any code or function you are using in your final method. 
 
 
-#### Loose links
+#### Inspiration with links to more data sources 
 
 * [24 Ultimate Data Science (Machine Learning) Projects To Boost Your Knowledge and Skills (& can be accessed freely)](https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/)
-
+* [20 open data sources for NLP](https://medium.com/@ODSC/20-open-datasets-for-natural-language-processing-538fbfaf8e38)
+* [25 deep learning data sets (images)](https://www.analyticsvidhya.com/blog/2018/03/comprehensive-collection-deep-learning-datasets/)
+* [public data sets for machine learning and data science](https://pub.towardsai.net/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f)
+* [datasets for all types of projects](https://www.kdnuggets.com/datasets/index.html)
 
 # 2. Data Visualization
 
