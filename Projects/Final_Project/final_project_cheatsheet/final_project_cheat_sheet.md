@@ -116,9 +116,9 @@ Every data analyst googles for solutions, and learns from others approaches, or 
 * [Python graph gallery](https://python-graph-gallery.com/all-charts/). A vast collection of matplotlib based (seaborn, matplotlib, pandas, etc.) plots with their respective code snippets. If you need a plot, pick one, check the code, copy-paste it and change it according to your needs
 * [80 Data Visualization examples using location data and maps](https://carto.com/blog/eighty-data-visualizations-examples-using-location-data-maps/)
 * [From Data to Viz - The ultimate guide to plotting](https://www.data-to-viz.com/), click the plot symbols to get Python code snippets shown
-* [Makeover Monday] (https://www.makeovermonday.co.uk/) , look at weekly project topics, access data sources and see how others visualised it 
-* [information is beautiful] (https://informationisbeautiful.net/) , what can we add to the title ? 
-* [storytelling with data] (https://www.storytellingwithdata.com/blog), the SWD challenge blog - highly recommended 
+* [Makeover Monday](https://www.makeovermonday.co.uk/) , look at weekly project topics, access data sources and see how others visualised it 
+* [information is beautiful](https://informationisbeautiful.net/) , what can we add to the title ? 
+* [storytelling with data](https://www.storytellingwithdata.com/blog), the SWD challenge blog - highly recommended 
 
 # 5. Presentations
 
