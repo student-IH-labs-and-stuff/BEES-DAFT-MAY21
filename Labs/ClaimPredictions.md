@@ -54,29 +54,29 @@ Present results inside your notebook with appropriate annotation describing the 
 
 ### data definitions for handy reference :
 
-Unnamed: Index
-customer: Customer ID
-state: US State
-customer_lifetime_value: CLV is the client economic value for a company during all their relationship
-response: Response to marketing calls (customer engagement)
-coverage: Customer coverage type
-education: Customer education level
-effective_to_date: Effective to date
-employmentstatus: Customer employment status
-gender: Customer gender
-income: Customer income
-location_code: Customer living zone
-marital_status: Customer marital status
-monthly_premium_auto: Monthly premium
-months_since_last_claim: Last customer claim
-months_since_policy_inception: Policy Inception
-number_of_open_complaints: Open claims
-number_of_policies: Number policies
-policy_type: Policy type
-policy: Policy
-renew_offer_type: Renew
-sales_channel: Sales channel (customer-company first contact)
-total_claim_amount: Claims amount
-vehicle_class: Vehicle class
-vehicle_size: Vehicle size
-vehicle_type: Vehicle type
+- Unnamed: Index
+- customer: Customer ID
+- state: US State
+- customer_lifetime_value: CLV is the client economic value for a company during all their relationship
+- response: Response to marketing calls (customer engagement)
+- coverage: Customer coverage type
+- education: Customer education level
+- effective_to_date: Effective to date
+- employmentstatus: Customer employment status
+- gender: Customer gender
+- income: Customer income
+- location_code: Customer living zone
+- marital_status: Customer marital status
+- monthly_premium_auto: Monthly premium
+- months_since_last_claim: Last customer claim
+- months_since_policy_inception: Policy Inception
+- number_of_open_complaints: Open claims
+- number_of_policies: Number policies
+- policy_type: Policy type
+- policy: Policy
+- renew_offer_type: Renew
+- sales_channel: Sales channel (customer-company first contact)
+- total_claim_amount: Claims amount
+- vehicle_class: Vehicle class
+- vehicle_size: Vehicle size
+- vehicle_type: Vehicle type
